@@ -8,7 +8,7 @@ import { Router } from '@angular/router';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent implements OnInit {
-  title = 'Exames Sphera';
+  title = 'Exames';
   bodyStyleClass = '';
 
   constructor(private authService: AuthService, private router: Router) {}

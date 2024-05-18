@@ -1,16 +1,13 @@
 
-# FrontWeb Labstecca Angular
+# Sistema de Consultas Angular
 
-O projeto Labstecca foi designado para substituir o antigo sistema de consultas a exames. Esse novo projeto visa apenas facilitar os novos usuarios a acessarem os exames e seus filtros dependendo do usuario.
+O projeto para consultar exame foi designado para substituir o antigo sistema de consultas a exames. Esse novo projeto visa apenas facilitar os novos usuarios a acessarem os exames e seus filtros dependendo do usuario.
+OBS:. Ao fazer download do repositório pode haver algumas inconsistencias ja que foi retirado algumas informações pouco críticas. (Alterado o nome dos projetos no package.json)
 
 
 ## Autores
 
 - [Bruno Pocay](https://github.com/brunopocay)
-
-## Co-Autores
-
-- [Thiago Lavras](https://github.com/thiagolavras)
 
 
 ## Stack utilizada
@@ -25,7 +22,7 @@ O projeto Labstecca foi designado para substituir o antigo sistema de consultas 
 Clone o projeto
 
 ```bash
-  git clone https://github.com/Cbm-Info/Sphera-Front-Web-Angular-V2.git
+  git clone https://github.com/brunopocay/ConsultarExamesAngular.git
 ```
 
 Entre no diretório do projeto
